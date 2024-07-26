@@ -37,7 +37,7 @@ npm install
 
 ## Usage
 
-npm run dev
+To run this app is necessary run this code in terminal 'npm run dev'
 
 ## Contributing
 Contributions are welcome! If you have suggestions or find any issues, please open an issue or submit a pull request.
