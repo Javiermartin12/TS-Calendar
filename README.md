@@ -1,5 +1,10 @@
 ## Calendar Project
 
+<img src="./assets/Captura de pantalla 2024-07-26 a las 10.27.00.png" heigth="500" width="850" alt="Calendar typescript">
+
+<img src="./assets/Captura de pantalla 2024-07-26 a las 10.27.31.png" heigth="500" width="850" alt="Calendar typescript">
+
+
 ## Description
 
 This is a calendar application developed using TypeScript.
