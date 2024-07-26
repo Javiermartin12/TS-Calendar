@@ -28,8 +28,7 @@ jobs:
       - name: Build project
         run: npm run build
     
-      - name: Preview project
-        run: npm run preview
+     
 
   
 
